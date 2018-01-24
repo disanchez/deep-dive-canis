@@ -1,0 +1,16 @@
+edu.cnm.deepdive.taxonomy.CanisLupus
+
+edu.cnmdeepdive.taxonomy.CanisLupus whiteFang = new edu.cnm.deepdive.taxonomy.CanisLupis();
+whiteFang.speak();
+
+
+edu.cnm.deepdive.taxonomy.CanisLupusFamiliaris spot 
+	= new edu.cnm.deepdive.taxonomy.CanisLupisFamiliaris();
+
+whiteFang.hunt();
+spot.hunt();
+whiteFang.speak();
+spot.speak();
+
+spot.setGoodbye(true);
+System.out.println(spot.isGoodBoy());

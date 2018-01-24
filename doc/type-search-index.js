@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.cnm.deepdive.taxonomy","l":"Canis"},{"p":"edu.cnm.deepdive.taxonomy","l":"CanisLupus"},{"p":"edu.cnm.deepdive.taxonomy","l":"CanisLupusFamiliaris"},{"p":"edu.cnm.deepdive.taxonomy","l":"Kennel"}]
